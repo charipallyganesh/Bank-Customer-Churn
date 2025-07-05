@@ -18,7 +18,7 @@
 
 **Age Impact**
 
-* **Customers aged 45-59** have the **highest churn rate (\~50.5%)**, possibly due to better offers or dissatisfaction.
+* **Customers aged 45-59** have the **highest churn rate 50.5%**, possibly due to better offers or dissatisfaction.
 * **Customers aged 75+** show an extremely high **churn rate of 98%**, likely due to life stage factors.
 
 ---
@@ -32,10 +32,12 @@
 
 **Satisfaction Ratings**
 
-* Customers with a **satisfaction rating of 2** exhibit the **highest churn (\~22%)**, indicating urgent need for relationship improvement.
+* Customers with a **satisfaction rating of 2** exhibit the **highest churn 22%**, indicating urgent need for relationship improvement.
 
 ---
 
 **Product Usage**
 
 * **Most customers hold Product 2**, showing its popularity but also highlighting **potential risk if churn is concentrated here**.
+
+
